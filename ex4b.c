@@ -23,3 +23,5 @@ signal(SIGINT,traiter);
 
 while(1) pause();
 }
+
+// SIGINT == ^C 
